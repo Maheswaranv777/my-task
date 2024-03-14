@@ -1,2 +1,6 @@
 welcome Mr.mahes
+<<<<<<< Updated upstream
 what do next?
+=======
+hi this is mahes
+>>>>>>> Stashed changes
